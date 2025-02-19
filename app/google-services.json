@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841750315596",
+    "project_id": "contacs-app-7b7bf",
+    "storage_bucket": "contacs-app-7b7bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841750315596:android:27acfd7b868a50801eaae9",
+        "android_client_info": {
+          "package_name": "com.esrakonya.contacsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJRYERYfHMb1_Ld8P8HI0D3EOKMzwKcLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
